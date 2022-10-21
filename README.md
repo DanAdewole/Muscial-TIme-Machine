@@ -5,5 +5,3 @@ The singers list extracted was no longer used. Commented it out.
 Spotipy was used to create a Spotify Playlist with the songs extracted.
 
 With this, even if you are a Baby Boomer or a Gen X, you can create a playlist of the top songs in your childhood using this program.
-
-The code looks messy but this is just for practice. Will be revamped later. Main thing is that it works now.
